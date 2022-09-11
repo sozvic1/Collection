@@ -14,7 +14,7 @@ namespace Collection
             {
 
                 array[i] = item;
-                i++;
+                i +=2;
             }
             return array;
         }
